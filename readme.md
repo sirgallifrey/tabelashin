@@ -1,4 +1,4 @@
-This is a program that a made for a friend to transform some table.
+This is a script that I made for a friend to transform some table.
 
 It transforms a table like this
 
